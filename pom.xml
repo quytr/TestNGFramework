@@ -75,7 +75,7 @@
                 <version>3.0.0-M6</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <include>AddEmployee.xml</include>
+                        <include>AddMultipleEmployee.xml</include>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

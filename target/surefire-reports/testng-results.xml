@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="10431" started-at="2022-05-16T22:26:06 EDT" finished-at="2022-05-16T22:26:16 EDT">
+  <suite name="All Test Suite" duration-ms="21105" started-at="2022-05-17T10:21:45 EDT" finished-at="2022-05-17T10:22:06 EDT">
     <groups>
     </groups>
-    <test name="C:/Users/quytr/IdeaProjects/TestNGFramework" duration-ms="10431" started-at="2022-05-16T22:26:06 EDT" finished-at="2022-05-16T22:26:16 EDT">
+    <test name="C:/Users/quytr/IdeaProjects/TestNGFramework" duration-ms="21105" started-at="2022-05-17T10:21:45 EDT" finished-at="2022-05-17T10:22:06 EDT">
       <class name="test.AddEmployeeTest">
-        <test-method status="PASS" signature="openBrowserAndLaunchApplication()[pri:0, instance:test.AddEmployeeTest@5e853265]" name="openBrowserAndLaunchApplication" is-config="true" duration-ms="1865" started-at="2022-05-16T22:26:06 EDT" finished-at="2022-05-16T22:26:08 EDT">
+        <test-method status="PASS" signature="openBrowserAndLaunchApplication()[pri:0, instance:test.AddEmployeeTest@5e853265]" name="openBrowserAndLaunchApplication" is-config="true" duration-ms="1879" started-at="2022-05-17T10:21:45 EDT" finished-at="2022-05-17T10:21:47 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBrowserAndLaunchApplication -->
-        <test-method status="PASS" signature="addEmployee()[pri:0, instance:test.AddEmployeeTest@5e853265]" name="addEmployee" duration-ms="7635" started-at="2022-05-16T22:26:08 EDT" finished-at="2022-05-16T22:26:15 EDT">
+        <test-method status="PASS" signature="addMultipleEmployee()[pri:0, instance:test.AddEmployeeTest@5e853265]" name="addMultipleEmployee" duration-ms="18312" started-at="2022-05-17T10:21:47 EDT" finished-at="2022-05-17T10:22:05 EDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addEmployee -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddEmployeeTest@5e853265]" name="tearDown" is-config="true" duration-ms="688" started-at="2022-05-16T22:26:16 EDT" finished-at="2022-05-16T22:26:16 EDT">
+        </test-method> <!-- addMultipleEmployee -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.AddEmployeeTest@5e853265]" name="tearDown" is-config="true" duration-ms="667" started-at="2022-05-17T10:22:05 EDT" finished-at="2022-05-17T10:22:06 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
