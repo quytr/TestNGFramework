@@ -1,0 +1,36 @@
+TestNG Framework:
+POM.xml
+
+testNG.xml
+
+Resources:
+    configuration file
+    excel Data
+
+utils:
+    common methods
+    config reader
+    constants
+    excel reader
+    page initializers
+    listeners
+
+pages:
+    Add Employee Page
+    Dash Board Page
+    Employee Detail Page
+    Employee Search Page
+    Login Page
+
+
+test:
+    login Test
+
+
+
+
+
+
+
+
+
